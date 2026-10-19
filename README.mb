@@ -1,0 +1,31 @@
+# Streamlit Learning Project
+
+## Introduction
+Streamlit is a Python library used to build interactive web applications
+for data science and machine learning projects.
+
+## Features
+- Display text and titles
+- Create buttons
+- Use text input and number input
+- Create sliders
+- Use radio buttons and checkboxes
+- Display images and audio
+- Create tabs and columns
+- Display data using tables and DataFrames
+- Create charts
+- Use the sidebar
+- Manage user interactions with session state
+
+## Requirements
+- Python
+- Streamlit
+- Pandas
+- Matplotlib
+
+## Installation
+
+Install Streamlit:
+
+`bash
+pip install streamlit
